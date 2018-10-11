@@ -1,6 +1,13 @@
-##Female Arab Coders Intitiative
+## Female Arab Coders Intitiative
 ## مبادرة نساء مبرمجات 
 
-*Name: Farah Alaa
-*Week-1: Git and Github
-*Week-2: Creating Markdown File
+### Name: Farah Alaa
+*__Week-1:__
+   [Introduction Git and Github]
+   (https://github.com/FarahAlaa97/Facoders.git) 
+
+
+*__Week-2:__
+
+
+ Creating Markdown File
