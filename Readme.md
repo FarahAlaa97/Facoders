@@ -5,9 +5,7 @@
 * __Week-1:__
 
 
-      [Introduction Git and Github]
-      (https://github.com/FarahAlaa97/Facoders.git) 
-
+      [Introduction Git and Github](https://github.com/FarahAlaa97/Facoders.git) 
 
 * __Week-2:__
 
